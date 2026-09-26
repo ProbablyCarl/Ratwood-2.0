@@ -60943,10 +60943,6 @@
 	},
 /turf/open/water/bath,
 /area/rogue/indoors/town/bath)
-"mDP" = (
-/obj/structure/chair/wood/rogue/fancy,
-/turf/closed/mineral/rogue,
-/area/rogue/under/cave)
 "mDW" = (
 /turf/closed/wall/mineral/rogue/decostone/fluffstone,
 /area/rogue/indoors/town/academy)
@@ -619902,7 +619898,7 @@ sYw
 sYw
 sYw
 sYw
-mDP
+vRu
 vRu
 vRu
 vRu
